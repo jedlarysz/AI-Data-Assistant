@@ -50,7 +50,10 @@ python AI_Data_Assistant.pyw
 - **Tkinter** - interfejs graficzny
 
 ## 📸 Zrzuty ekranu
-[Tutaj warto dodać 2-3 zrzuty ekranu pokazujące główne funkcje aplikacji]
+![image](https://github.com/user-attachments/assets/d49a22c6-9ec4-430f-89e7-a952c504a101)
+![image](https://github.com/user-attachments/assets/c3a0cd74-18f0-468a-b856-671f07e282a2)
+![image](https://github.com/user-attachments/assets/c90e2bd4-13d3-4357-a673-25e5a07edc9a)
+
 
 ## 🎯 Przypadki użycia
 - Eksploracyjna analiza danych
@@ -70,4 +73,5 @@ Zachęcam do współpracy! Jeśli masz pomysł na ulepszenie aplikacji:
 4. Wyślij pull request
 
 ## 📫 Kontakt
-[Tutaj dodaj swoje dane kontaktowe/LinkedIn] 
+www.linkedin.com/in/jędrzej-larysz-805307143
+
